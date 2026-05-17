@@ -1,7 +1,7 @@
 # Agile Travel Website - Manual Testing Project
 
 ## Project Overview
-This project focuses on manual testing for the Agile Travel website.  
+This project focuses on manual testing for the Agile Travel website, including test case design, execution, and defect reporting to ensure system quality and functionality.
 
 ## Website Screenshot
 ![Agile Travel Website](https://github.com/rehabsabry1590-art/Agile-Travel-Website---Manual-Testing-Project/blob/main/images/Screenshot%202026-05-17%20102128.png?raw=true)
