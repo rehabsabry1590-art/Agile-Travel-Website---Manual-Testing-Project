@@ -4,7 +4,7 @@
 This project focuses on manual testing for the Agile Travel website.  
 
 ## Website Screenshot
-![Agile Travel Website](https://github.com/rehabsabry1590-art/Agile-Travel-Website---Manual-Testing-Project/blob/main/Screenshot%202026-05-17%20102128.png?raw=true)
+![Agile Travel Website](https://github.com/rehabsabry1590-art/Agile-Travel-Website---Manual-Testing-Project/blob/main/images/Screenshot%202026-05-17%20102128.png?raw=true)
 
 ## Testing Activities
 - Exploratory Testing  
